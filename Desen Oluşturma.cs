@@ -2,6 +2,8 @@
 
 class Program
 {
+
+    // Desen programi: hata kontrolleri ve ikinci karakter ozelligi
     static int SayiOku(string mesaj)
     {
         while (true)
