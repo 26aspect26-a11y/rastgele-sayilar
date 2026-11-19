@@ -4,6 +4,9 @@ class Program
 {
     static void Main()
     {
+
+        // Rastgele sayılarla en büyük/küçük, tek/çift ve filtreleme işlemleri
+        
         Random rastgele = new Random();
         int[] sayilar = new int[10];
 
